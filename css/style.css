@@ -1,0 +1,42 @@
+body {
+    background-color: #f7f1eb;
+    color: #614e1b;
+    text-align:center;
+}
+
+.index-ul {
+    list-style-image: url(../pics/stroopwafel-solid.svg);
+}
+
+.ORtitle {
+    margin-bottom: 0px;
+    color: #614e1b;
+    font-size: 50px;
+}
+
+a {
+    color: #614e1b;
+    font-size: 25px;
+}
+
+a:hover {
+    color: #b3b2af;
+}
+
+.coffee-ul {
+    list-style-image: url(../pics/mug-hot-solid.svg);
+    list-style-position: inside;
+}
+
+.tacos-ul {
+    list-style-image: url(../pics/utensils-solid.svg);
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+.index-ul {
+    list-style-position: inside;
+}
